@@ -2,7 +2,7 @@
 
 <!-- Name --> 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="left" style="width: 100%" /> 
+<img alt="image" src="https://www.tumblr.com/ilta222/761368397787398144/lets-stay-in-and-play-minecraft?source=share" align="left" style="width: 100%" /> 
 </div>  
 
 # <img src="https://slackmojis.com/emojis/71864-cutewaveq/download" width="50" /> This is Apoorva
