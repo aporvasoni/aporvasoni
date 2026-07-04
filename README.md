@@ -5,7 +5,7 @@
 </div>  
 
 <h1 align="center"> <img src="https://slackmojis.com/emojis/71864-cutewaveq/download" width="50" height="30" />  Hi, I'm Apoorva</h1> 
-<hr> 
+ 
 
 <!-- About-->
 <p> I'm an aspiring Software Engineer from India who enjoys learning by building projects and solving problems.
