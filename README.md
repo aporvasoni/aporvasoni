@@ -10,4 +10,13 @@
 <!-- intro heading-->
 
 <!-- About-->
+<p> I'm an aspiring Software Engineer from India who enjoys learning by building projects and solving problems.
 
+I'm currently working on improving my development skills and using GitHub to document my learning journey and the projects I create along the way.
+
+Outside of computer science, I enjoy creating art, playing video games, and exploring aesthetic design.
+
+Thanks for stopping by!
+</p>
+<h2>Let's connect!</h2>
+<a href="https://shorturl.at/hHSKC"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"> </a>
