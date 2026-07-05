@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aporvasoni&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
-<p> I'm an aspiring Software Engineer from India who enjoys learning by building projects and solving problems.
+<p align="center"> I'm an aspiring Software Engineer from India who enjoys learning by building projects and solving problems.
 
 I'm currently working on improving my development skills and using GitHub to document my learning journey and the projects I create along the way.
 
@@ -20,7 +20,8 @@ Outside of computer science, I enjoy creating art, playing video games, and expl
 Thanks for stopping by!
 </p>
 
-###🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
+
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
