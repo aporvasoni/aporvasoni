@@ -9,7 +9,7 @@
 
 <!-- About-->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aporvasonilabel=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=aporvasoni&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 <p> I'm an aspiring Software Engineer from India who enjoys learning by building projects and solving problems.
 
@@ -19,14 +19,12 @@ Outside of computer science, I enjoy creating art, playing video games, and expl
 
 Thanks for stopping by!
 </p>
-### 🛠️ Tech Stack
 
+###🛠️ Tech Stack
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 <!--![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) -->
-
-
 <!--**AI / ML**
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20%26%20Retrieval-4B8BBE?style=flat-square&logo=databricks&logoColor=white)
@@ -41,13 +39,13 @@ Thanks for stopping by!
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)-->
 
 **Data & Infra**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<!--![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)-->
 <!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)-->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)-->
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-<!--![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)-->
 
 ---
 <p><strong>Let's connect!</strong><p>
