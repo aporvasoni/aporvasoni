@@ -12,11 +12,8 @@
 <img src="https://komarev.com/ghpvc/?username=aporvasoni&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 <p align="center"> I'm an aspiring Software Engineer from India who enjoys learning by building projects and solving problems.
-
 I'm currently working on improving my development skills and using GitHub to document my learning journey and the projects I create along the way.
-
 Outside of computer science, I enjoy creating art, playing video games, and exploring aesthetic design.
-
 Thanks for stopping by!
 </p>
 
